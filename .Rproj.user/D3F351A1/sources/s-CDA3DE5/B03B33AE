@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1617270680348.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "12|54|35|0|\n",
+    "hash" : "0",
+    "id" : "B03B33AE",
+    "lastKnownWriteTime" : 1622473502,
+    "last_content_update" : 1622473502812,
+    "path" : "~/DN-R/news-conjoint-analysis/2_Script/conjoint_visualisations.R",
+    "project_path" : "2_Script/conjoint_visualisations.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1617701349290.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "20|32|35|0|\n44|33|55|0|\n190|51|276|0|\n279|53|287|0|\n294|63|314|0|\n317|75|362|0|\n369|61|385|0|\n387|71|400|0|\n403|91|421|0|\n424|86|450|0|\n453|60|464|0|\n466|70|477|0|\n480|73|501|0|\n504|63|517|0|\n524|75|545|0|\n548|86|568|0|\n571|108|593|0|\n",
+    "hash" : "0",
+    "id" : "9B6616BF",
+    "lastKnownWriteTime" : 1622472393,
+    "last_content_update" : 1622473440142,
+    "path" : "~/DN-R/news-conjoint-analysis/2_Script/conjoint_functions.R",
+    "project_path" : "2_Script/conjoint_functions.R",
+    "properties" : {
+        "cursorPosition" : "102,62",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

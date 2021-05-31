@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1622459835149.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "6|89|75|0|\n",
+    "hash" : "0",
+    "id" : "FB9E9638",
+    "lastKnownWriteTime" : 1622471220,
+    "last_content_update" : 1622471220429,
+    "path" : "~/DN-R/news-conjoint-analysis/2_Script/conjoint_auto_calculations.R",
+    "project_path" : "2_Script/conjoint_auto_calculations.R",
+    "properties" : {
+        "cursorPosition" : "85,42",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
